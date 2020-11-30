@@ -4,5 +4,5 @@ spec:
   - environment_slug: node-js
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-expressjs.git
+      repo_clone_url: https://github.com/pathwaysplatform/sample-expressjs.git
     name: sample-expressjs
